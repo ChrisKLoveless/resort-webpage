@@ -9,6 +9,11 @@ h2 {
 }
 
 body {
-  font-family:fantasy;
-  background-color: chocolate;
+  font-family: cursive;
+  background-color: rgb(12, 181, 200);
 }
+
+p {
+  text-align: center;
+  color: coral;
+  }
